@@ -1,0 +1,56 @@
+# Open Arsenal Voice Specifications
+
+The Voice specifications collection focuses on open, self-hostable voice and communication technologies designed to give organizations full ownership of their infrastructure, data, and user experiences. These specifications explore areas such as conversational AI, real-time speech recognition, voice synthesis, intelligent scheduling, communication platforms, AI personas, ambient assistants, and collaborative voice-enabled systems. Across the portfolio, a common architectural philosophy emerges: modular design, end-to-end encryption, local-first deployment, interoperability, and the elimination of vendor lock-in. The specifications are engineered to operate across private networks, enterprise environments, government systems, and public-facing services while maintaining transparency, auditability, and long-term portability.
+
+Together, these specifications envision a future where voice becomes a secure and intelligent interface layer connecting people, information, devices, and organizations. Rather than relying on centralized platforms, the designs emphasize community ownership, open standards, human governance, and extensible architectures that can evolve over time through collaboration. All specifications are released under open-source licensing frameworks that encourage adoption, modification, and contribution. Organizations seeking to deploy implementations without attribution requirements may negotiate Specification Branding Licenses, allowing customized commercial or enterprise deployments while maintaining alignment with the underlying specification framework.
+
+## Open Arsenal Voice Specs:
+
+- **Axis Intelligence**  
+  [https://roxanneardary.com/axis-intelligence/](https://roxanneardary.com/axis-intelligence/)  
+  The Quiet Center of a Smarter Home, an open-source modular ambient AI platform designed for local-first voice interaction, real-time intelligence, and fully customizable smart home integration.  
+   
+- **Cirra Chat**  
+  [https://roxanneardary.com/cirra-chat/](https://roxanneardary.com/cirra-chat/)  
+  A modular, all-in-one communication platform that unifies multiple messaging providers into a single extensible system with a scalable, plugin-ready architecture.  
+   
+- **Enchanta**  
+  [https://roxanneardary.com/enchanta/](https://roxanneardary.com/enchanta/)  
+  An open source AI-powered adventure creation platform where users build characters, cast spells, and direct cinematic fantasy stories through voice or text prompts.  
+   
+- **PicPorter**  
+  [https://roxanneardary.com/picporter/](https://roxanneardary.com/picporter/)  
+  Drag-and-drop uploader for images, videos, and files with flexible backend storage and previews. It is licensed under AGPLv3.  
+   
+- **PrivateSwitch**  
+  [https://roxanneardary.com/privateswitch/](https://roxanneardary.com/privateswitch/)  
+  A self-hosted, AI-powered call routing and operator system that transforms a single phone line into a fully private, intelligent communication switchboard with multi-number support and encrypted control. It is licensed under AGPLv3.  
+   
+- **ScribeVault**  
+  [https://roxanneardary.com/scribevault/](https://roxanneardary.com/scribevault/)  
+  AI-driven clinical documentation platform generating HIPAA-compliant medical notes with voice commands, templates, and secure export. It is licensed under AGPLv3.  
+   
+- **SynapCache**  
+  [https://roxanneardary.com/synapcache/](https://roxanneardary.com/synapcache/)  
+  Distributed caching system for LLM outputs with predictive intelligence and multi-cloud deployment. It is licensed under AGPLv3.
+
+## License & Notice Requirements
+
+Open Arsenal Voice Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
+By contributing to any project, you agree that your contributions will also be released under this license.
+
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- Open Arsenal specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
+  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+
+**Open Arsenal Hub**  
+[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs)  
