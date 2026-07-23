@@ -37,7 +37,7 @@ Together, these specifications envision a future where voice becomes a secure an
   [https://roxanneardary.com/picporter/](https://roxanneardary.com/picporter/)  
   Drag-and-drop uploader for images, videos, and files with flexible backend storage and previews. It is licensed under AGPLv3.  
    
-- **PrivateSwitch**  
+- [**PrivateSwitch Module Specifications**](https://github.com/openarsenalspecs/Voice/blob/921cde47d9c5e1df5da6a232c0329dd7d3d3e665/PrivateSwitch.md)  
   [https://roxanneardary.com/privateswitch/](https://roxanneardary.com/privateswitch/)  
   A self-hosted, AI-powered call routing and operator system that transforms a single phone line into a fully private, intelligent communication switchboard with multi-number support and encrypted control. It is licensed under AGPLv3.  
    
