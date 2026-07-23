@@ -29,7 +29,7 @@ Together, these specifications envision a future where voice becomes a secure an
   [https://roxanneardary.com/cirra-chat/](https://roxanneardary.com/cirra-chat/)  
   A modular, all-in-one communication platform that unifies multiple messaging providers into a single extensible system with a scalable, plugin-ready architecture.  
    
-- **Enchanta**  
+- [**Enchanta Module Specification**](https://github.com/openarsenalspecs/Voice/blob/ed7c623287f9cd27d228071d81d5969fb9dabd0a/Enchanta.md)    
   [https://roxanneardary.com/enchanta/](https://roxanneardary.com/enchanta/)  
   An open source AI-powered adventure creation platform where users build characters, cast spells, and direct cinematic fantasy stories through voice or text prompts.  
    
