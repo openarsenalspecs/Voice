@@ -45,7 +45,7 @@ Together, these specifications envision a future where voice becomes a secure an
   [https://roxanneardary.com/scribevault/](https://roxanneardary.com/scribevault/)  
   AI-driven clinical documentation platform generating HIPAA-compliant medical notes with voice commands, templates, and secure export. It is licensed under AGPLv3.  
    
-- **SynapCache**  
+- [**SynapCache Module Specification**](https://github.com/openarsenalspecs/Voice/blob/31c0bc4d7e0bf279fd336fe907b641b0231aec0f/SynapCache.md)  
   [https://roxanneardary.com/synapcache/](https://roxanneardary.com/synapcache/)  
   Distributed caching system for LLM outputs with predictive intelligence and multi-cloud deployment. It is licensed under AGPLv3.
 
