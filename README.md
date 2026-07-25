@@ -41,7 +41,7 @@ Together, these specifications envision a future where voice becomes a secure an
   [https://roxanneardary.com/privateswitch/](https://roxanneardary.com/privateswitch/)  
   A self-hosted, AI-powered call routing and operator system that transforms a single phone line into a fully private, intelligent communication switchboard with multi-number support and encrypted control. It is licensed under AGPLv3.  
    
-- **ScribeVault**  
+- [**ScribeVault Module Specification**](https://github.com/openarsenalspecs/Voice/blob/f0cfa08c4793d4eb9d32de160e53edef9886c01f/ScribeVault.md)    
   [https://roxanneardary.com/scribevault/](https://roxanneardary.com/scribevault/)  
   AI-driven clinical documentation platform generating HIPAA-compliant medical notes with voice commands, templates, and secure export. It is licensed under AGPLv3.  
    
