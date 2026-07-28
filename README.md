@@ -33,7 +33,7 @@ Together, these specifications envision a future where voice becomes a secure an
   [https://roxanneardary.com/enchanta/](https://roxanneardary.com/enchanta/)  
   An open source AI-powered adventure creation platform where users build characters, cast spells, and direct cinematic fantasy stories through voice or text prompts.  
    
-- **PicPorter**  
+- [**PicPorter Module Specification**](https://github.com/openarsenalspecs/Voice/blob/599c4f092ebf2895db816a98a89f2dde318e48ba/PicPorter.md)    
   [https://roxanneardary.com/picporter/](https://roxanneardary.com/picporter/)  
   Drag-and-drop uploader for images, videos, and files with flexible backend storage and previews. It is licensed under AGPLv3.  
    
