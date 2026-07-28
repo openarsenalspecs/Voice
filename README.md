@@ -25,7 +25,7 @@ Together, these specifications envision a future where voice becomes a secure an
   [https://roxanneardary.com/axis-intelligence/](https://roxanneardary.com/axis-intelligence/)  
   The Quiet Center of a Smarter Home, an open-source modular ambient AI platform designed for local-first voice interaction, real-time intelligence, and fully customizable smart home integration.  
    
-- **Cirra Chat**  
+- [**Cirra Chat Module Specification**](https://github.com/openarsenalspecs/Voice/blob/8b922b25ad237855207ba102f2f40e1173bc3d3f/Cirra%20Chat.md)    
   [https://roxanneardary.com/cirra-chat/](https://roxanneardary.com/cirra-chat/)  
   A modular, all-in-one communication platform that unifies multiple messaging providers into a single extensible system with a scalable, plugin-ready architecture.  
    
