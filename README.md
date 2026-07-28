@@ -21,7 +21,7 @@ Together, these specifications envision a future where voice becomes a secure an
 
 ## Open Arsenal Voice Specs:
 
-- **Axis Intelligence**  
+- [**Axis Intelligence Module Specification**](https://github.com/openarsenalspecs/Voice/blob/cd4aac55296d1f26d34539127962f0161ccd3ff8/Axis%20Intelligence.md)    
   [https://roxanneardary.com/axis-intelligence/](https://roxanneardary.com/axis-intelligence/)  
   The Quiet Center of a Smarter Home, an open-source modular ambient AI platform designed for local-first voice interaction, real-time intelligence, and fully customizable smart home integration.  
    
