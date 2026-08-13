@@ -1,337 +1,589 @@
 # Enchanta
 
-Build Characters, Cast Spells, Tell Stories.
+**Build Characters, Cast Spells, Tell Stories.**
+
+Enchanta is an open source AI-powered cinematic adventure creation platform that transforms imagination into interactive stories, animated scenes, music, and complete cinematic experiences. Adults can create characters, design worlds, develop magical abilities, guide stories through voice or text, and direct how each scene unfolds.
 
-Enchanta is an open source AI-powered cinematic adventure creation platform that transforms imagination into interactive, animated storytelling experiences. Users create characters, design worlds, direct cinematic scenes, and generate full narrative experiences using voice or text prompts.
+Enchanta is designed as a modular creative platform. Core modules provide the foundation for character creation, worldbuilding, storytelling, cinematic direction, media generation, narrative continuity, and safe AI assistance. Optional plugin modules allow developers to extend the platform with additional AI models, rendering systems, creative tools, integrations, and community features.
 
-Enchanta operates as a **creative storytelling engine and film studio system**, where AI assists in building, animating, and orchestrating entire narrative worlds.
+Enchanta is designed to remain PG-13. The platform does not generate nudity, sexual content, or graphic violence. AI assistance helps maintain age-appropriate behaviors, interactions, dialogue, and story development.
 
-The platform is designed to remain PG-13, focusing on fantasy, adventure, mystery, exploration, and creative storytelling.
+## Core Modules
 
----
+### Character Creation Module
 
-# Core Vision
+The Character Creation Module provides tools for creating original characters and maintaining their identities throughout a story.
 
-Enchanta is built to function as a **personal AI cinematic studio and narrative engine**, enabling users to:
+Features include:
 
-- Design characters with personality and depth  
-- Build immersive fantasy and sci-fi worlds  
-- Direct scenes like a film director  
-- Generate adaptive music and cinematic audio  
-- Create episodic story universes  
-- Record and export cinematic experiences  
-- Collaborate with AI as a co-director  
+- Physical appearance customization
+- Facial features
+- Hairstyles
+- Clothing and costumes
+- Accessories and props
+- Personality traits
+- Emotional characteristics
+- Character roles
+- Magical abilities
+- Voice characteristics
+- Behavioral preferences
+- Character relationships
+- Character memories
 
----
+AI assists with character development while maintaining consistency across scenes and episodes.
 
-# Full Feature Specification
+### World Creation Module
 
-## Character Creation System
+The World Creation Module allows users to create immersive and persistent fictional environments.
 
-Users can create fully customizable characters:
+Features include:
 
-- Physical appearance and styling  
-- Clothing, costumes, and thematic design  
-- Personality traits and emotional behavior models  
-- Magical abilities and fantasy roles  
-- Voice tone and narrative expression style  
-- Relationship attributes between characters  
+- Fantasy kingdoms
+- Enchanted forests
+- Magical academies
+- Cities
+- Floating islands
+- Space environments
+- Custom locations
+- Environmental details
+- Weather
+- Lighting
+- Time of day
+- Atmosphere
+- Interactive objects
+- Persistent world states
 
-AI ensures consistent behavior, emotional continuity, and story-aligned development.
+AI can assist with expanding environments while preserving established world rules and details.
 
----
+### Story Creation Module
 
-## World and Environment Builder
+The Story Creation Module transforms user imagination into structured narratives.
 
-Users can construct dynamic environments such as:
+Users can provide story direction through:
 
-- Fantasy kingdoms  
-- Enchanted forests  
-- Floating cities  
-- Magical academies  
-- Sci-fi environments  
-- Procedurally generated worlds  
+- Text prompts
+- Voice prompts
+- Plot descriptions
+- Character actions
+- Dialogue
+- Scene instructions
+- Narrative goals
 
-AI assists with:
+Features include:
 
-- Lighting and atmosphere  
-- Environmental storytelling  
-- Dynamic weather and scene mood  
-- Spatial continuity across episodes  
+- Story generation
+- Dialogue generation
+- Character interactions
+- Plot development
+- Narrative transitions
+- Story continuation
+- Story refinement
+- Creative suggestions
+- Story consistency
+- User-directed storytelling
 
----
+The AI asks questions when additional information would improve the story and can ask what should happen next.
 
-## Magic System
+### Narrative Assistant Module
 
-A structured fantasy interaction layer allows:
+The Narrative Assistant is an Always-On AI Co-Director that continuously assists the creator during story development.
 
-- Elemental magic systems  
-- Illusion and perception manipulation  
-- Energy-based effects  
-- Environmental transformation mechanics  
-- Story-triggered magical events  
+Features include:
 
-Magic is fully integrated into narrative, visuals, and audio systems.
+- Proactive story suggestions
+- Suggestions for what happens next
+- Plot development assistance
+- Emotional pacing analysis
+- Character development suggestions
+- Continuity monitoring
+- Story arc guidance
+- Branching story suggestions
+- Scene improvement suggestions
+- Narrative problem detection
+- Cinematic recommendations
 
----
+The Narrative Assistant supports the creator without taking control away from the user.
 
-## Director Mode
+### Story Graph Module
 
-Director Mode transforms Enchanta into a cinematic production engine.
+The Story Graph Module organizes stories as interconnected narrative states.
 
-Users control:
+Features include:
 
-- Camera angles and movement  
-- Scene pacing and timing  
-- Character expressions and body language  
-- Magic intensity and visual effects  
-- Music style and emotional tone  
-- Scene composition and framing  
+- Scene nodes
+- Branching story paths
+- Alternate outcomes
+- Story timelines
+- Story forks
+- Branch merging
+- Narrative dependencies
+- Previous scene relationships
+- Future scene planning
+- Alternate reality storytelling
 
-👉 Enables full **cinematic direction of AI-generated scenes**.
+Creators can explore different versions of their stories without destroying existing branches.
+
+### Episode System Module
 
----
+The Episode System provides Series Mode for creating long-form serialized adventures.
 
-## AI Story Engine
+Features include:
 
-The AI Story Engine drives narrative creation by:
+- Episodes
+- Seasons
+- Story arcs
+- Episode titles
+- Episode summaries
+- Previously on recaps
+- Episode continuity
+- Character progression
+- World progression
+- Season finales
+- PG-13 cliffhangers
+- Branching episode paths
+
+A story can grow from an individual adventure into a complete serialized universe.
 
-- Expanding prompts into structured scenes  
-- Maintaining story continuity across sessions  
-- Generating dialogue and emotional interactions  
-- Suggesting narrative arcs and plot developments  
-- Supporting branching storylines and improvisation  
+### Memory Compression Module
 
-AI functions as a **co-writer and narrative system**.
+The Memory Compression Module allows Enchanta to maintain continuity across long-running stories without requiring every previous scene to remain in active context.
 
----
+Features include:
 
-## Narrative Assistant (Always-On AI Co-Director)
+- Story summarization
+- Character memory compression
+- World lore compression
+- Relationship memory
+- Important event preservation
+- Episode memory blocks
+- Season memory blocks
+- Context prioritization
+- Historical event archiving
+- Memory reconstruction
 
-A persistent AI assistant that enhances storytelling in real time.
+Important information remains available to the AI while less important narrative details can be compressed for efficient long-term storytelling.
 
-Capabilities:
+### Emotion and Relationship Module
 
-- Proactive scene suggestions  
-- Emotional pacing analysis  
-- Story arc guidance  
-- Cinematic enhancement recommendations  
-- Branching narrative suggestions  
-- Continuity monitoring across characters and worlds  
+The Emotion and Relationship Module tracks how characters respond to events and to one another.
 
-👉 Acts as a **film director and storytelling guide embedded in the system**.
+Features include:
 
----
+- Character moods
+- Emotional states
+- Character relationships
+- Friendship development
+- Trust
+- Rivalry
+- Cooperation
+- Character growth
+- Emotional consequences
+- Relationship history
 
-## Adaptive Music Layer 2.0
+Emotional states can influence dialogue, behavior, music, animation, and future story development.
 
-A real-time emotional music generation system.
+### Magic Module
 
-Features:
+The Magic Module provides a structured framework for creating and using fantasy abilities.
 
-- Emotion-driven music adaptation  
-- Multi-layer composition system (melody, rhythm, ambient, accents)  
-- Character-specific musical themes  
-- Scene-based transitions and evolution  
-- Magic-synced audio effects and musical cues  
-- Dynamic intensity scaling based on narrative tension  
+Features include:
 
-👉 Music behaves as a **living system reacting to storytelling**.
+- Spell creation
+- Elemental effects
+- Illusions
+- Energy effects
+- Environmental magic
+- Magical transformations
+- Magical objects
+- Spell combinations
+- Magic rules
+- Magic limitations
+- Visual spell effects
+- Audio effects
+
+AI assists users in defining how magic works within the established rules of their world.
+
+### Director Mode Module
 
----
+Director Mode gives creators cinematic control over generated scenes.
 
-## Video Playback and Recording System
+Users can control:
 
-Users can:
+- Camera angles
+- Camera movement
+- Scene pacing
+- Shot duration
+- Character expressions
+- Character body language
+- Magic intensity
+- Lighting
+- Atmosphere
+- Music style
+- Emotional tone
+- Scene transitions
+- Cinematic framing
 
-- Play scenes in real time  
-- Record cinematic sequences  
-- Export story-based videos  
-- Replay and edit previous scenes  
-- Build full cinematic compilations  
+AI can suggest cinematic improvements while allowing the creator to make the final decisions.
 
----
+### Cinematic Shot Module
 
-## Save Point System
+The Cinematic Shot Module organizes scenes into film-like sequences.
 
-Flexible narrative state management:
+Features include:
 
-- Pause and resume stories  
-- Branch alternate story timelines  
-- Revisit and edit prior scenes  
-- Maintain multiple story versions  
-- Support non-linear storytelling  
+- Wide shots
+- Medium shots
+- Close-ups
+- Tracking shots
+- Establishing shots
+- Character reaction shots
+- Camera transitions
+- Shot timing
+- Storyboards
+- Cinematic compositions
+- Emotional beat mapping
 
----
+AI can generate suggested shot sequences based on the story and Director Mode settings.
 
-## Episode System (Series Mode)
+### Video Generation Module
 
-Enchanta supports serialized storytelling structures.
+The Video Generation Module transforms structured scenes into animated cinematic sequences.
 
-Features:
+Features include:
 
-- Episode-based narrative organization  
-- Season-level story grouping  
-- Persistent character and world continuity  
-- AI-generated episode recaps  
-- Cliffhanger generation support (PG-13 safe)  
-- Branching episode timelines  
+- AI-generated video scenes
+- Character animation
+- Environment animation
+- Magic animation
+- Camera movement
+- Scene transitions
+- Cinematic effects
+- Scene regeneration
+- Shot-level regeneration
+- Full story compilation
+
+The architecture should support interchangeable video generation providers and local generation systems.
+
+### Video Playback and Recording Module
+
+The Video Playback and Recording Module allows users to experience and capture their creations.
 
-👉 Enables long-form storytelling like animated series or cinematic universes.
+Features include:
 
----
+- Real-time playback
+- Cinematic playback
+- Scene replay
+- Full story playback
+- Video recording
+- Voice recording
+- Narration recording
+- Scene recording
+- Full adventure recording
+- Exportable video experiences
 
-## Memory Compression System
+### Adaptive Music Layer 2.0 Module
 
-Optimized long-term narrative intelligence system.
+Adaptive Music Layer 2.0 treats music as a dynamic part of the storytelling system rather than static background audio.
 
-Features:
+Features include:
 
-- AI-powered story summarization  
-- Lore preservation across long narratives  
-- Prioritized memory retention  
-- Episode-level compression blocks  
-- Context reconstruction from summaries  
-- Efficient long-term storytelling support  
+- Emotion-driven music
+- Real-time musical adaptation
+- Layered compositions
+- Melody layers
+- Rhythm layers
+- Ambient layers
+- Musical accents
+- Character themes
+- World themes
+- Scene-specific themes
+- Dynamic intensity
+- Music transitions
+- Magic-synchronized musical effects
 
-👉 Enables large-scale, multi-episode story universes.
+Music can change as characters feel, scenes evolve, and the story changes direction.
 
----
+### Audio and Voice Module
 
-## Story Graph System
+The Audio and Voice Module manages spoken dialogue, narration, sound effects, and generated audio.
 
-Narratives are structured as interconnected graphs:
+Features include:
 
-- Scene nodes connected by branching paths  
-- Alternate timeline exploration  
-- Mergeable story branches  
-- AI-assisted graph navigation  
-- Multi-path storytelling support  
+- Speech-to-text
+- Text-to-speech
+- Character voices
+- Narration
+- Dialogue playback
+- Ambient sound
+- Environmental audio
+- Magical sound effects
+- Music synchronization
+- Voice recording
 
----
+### Save Point Module
 
-## Cinematic Shot Engine
+The Save Point Module provides persistent story state management.
 
-Scenes are structured like film productions:
+Features include:
 
-- Shot sequencing (wide, close-up, tracking, etc.)  
-- Storyboard generation assistance  
-- Emotional beat mapping  
-- Scene composition logic  
-- Transition planning between shots  
+- Manual save points
+- Automatic save points
+- Scene checkpoints
+- Character state preservation
+- World state preservation
+- Episode state preservation
+- Director Mode state
+- Story branch preservation
+- Multiple story versions
+- Story restoration
 
----
+Creators can return to earlier points and explore different creative directions.
 
-## Story API (Developer Integration Layer)
+### Story API Module
 
-Enchanta exposes a full developer API.
+The Story API provides a developer integration layer for applications that want to use Enchanta's storytelling capabilities.
 
-Capabilities:
+Features include:
 
-- Programmatic story creation  
-- Scene generation endpoints  
-- Character state manipulation  
-- World and narrative graph control  
-- Director Mode parameter control  
-- Export pipeline integration  
+- Programmatic story creation
+- Character creation
+- World creation
+- Scene creation
+- Story graph access
+- Character state access
+- World state access
+- Episode management
+- Memory access
+- Director Mode controls
+- Music controls
+- Video generation requests
+- Story export
+- Playback integration
 
-Use cases:
+The API is intended to allow games, creative applications, educational tools, and other open source projects to build on Enchanta's narrative engine.
 
-- External games using Enchanta as a story engine  
-- Interactive storytelling applications  
-- Educational simulation systems  
-- AI-driven narrative platforms  
+### Content Safety Module
 
----
+The Content Safety Module maintains Enchanta's PG-13 creative requirements.
 
-## AI Assisted Story Creation
+The system prevents generation of:
 
-AI assists users by:
+- Nudity
+- Sexual content
+- Sex scenes
+- Graphic violence
+- Explicit adult content
 
-- Asking what happens next  
-- Suggesting plot developments  
-- Offering story branching options  
-- Improving dialogue flow  
-- Maintaining narrative tone consistency  
+The system also evaluates character behaviors, interactions, dialogue, generated scenes, and other content for age appropriateness.
 
----
+When a requested direction conflicts with the project's content requirements, AI should redirect the creator toward an appropriate alternative.
 
-## PG-13 Safety System
+### AI Orchestration Module
 
-Enchanta enforces safe creative storytelling:
+The AI Orchestration Module coordinates the various AI systems used by Enchanta.
 
-- No nudity or sexual content  
-- No graphic violence  
-- No explicit adult content  
-- Focus on fantasy, adventure, and narrative creativity  
+It manages:
 
----
+- Story generation
+- Character assistance
+- World generation
+- Video generation
+- Music generation
+- Voice generation
+- Narrative analysis
+- Content safety
+- Memory retrieval
+- Context management
 
-## Technical Architecture
+The architecture should allow AI providers and models to be replaced without requiring the entire platform to be rewritten.
 
-### Frontend
-- React  
-- Three.js / WebGL  
-- Web Audio API  
-- WebRTC (recording and playback)
+## Optional Plugin Modules
 
-### Backend
-- Node.js or Python (FastAPI)  
-- GPU-based rendering pipelines  
-- Real-time scene orchestration services  
+Enchanta supports optional plugins that extend functionality without making every feature part of the core system.
 
-### AI Systems
-- Story generation models  
-- Video generation systems  
-- Speech-to-text and text-to-speech  
-- Music generation engines  
-- Emotion and narrative analysis models  
+### AI Model Plugins
 
-### Data Systems
-- Story graph database  
-- Character state persistence  
-- Episode and season storage  
-- Memory compression layer  
-- Save point versioning system  
+Optional integrations for:
 
----
+- Local language models
+- Remote language models
+- Image generation models
+- Video generation models
+- Music generation models
+- Speech models
+- Voice models
+- Animation models
 
-## Modding and Extensibility
+### Rendering Plugins
 
-Enchanta is designed as a platform ecosystem:
+Optional rendering systems for:
 
-- Plugin-based AI systems  
-- Custom magic frameworks  
-- Community world packs  
-- Character and story templates  
-- Director Mode presets  
-- External API integrations  
+- Real-time 3D
+- Offline cinematic rendering
+- GPU rendering
+- Alternative video pipelines
+- Visual effects systems
 
----
+### Music Plugins
 
-## Contribution Guidelines
+Optional music integrations for:
 
-Contributors must:
+- Additional generation engines
+- MIDI systems
+- Instrument libraries
+- Adaptive scoring systems
+- Sound libraries
 
-- Follow PG-13 content rules  
-- Maintain system compatibility  
-- Provide clear documentation  
-- Preserve narrative consistency systems  
-- Respect AGPL-3.0+ licensing  
+### Voice Plugins
 
----
+Optional voice systems for:
 
-## Vision
+- Local speech recognition
+- Local text-to-speech
+- Voice libraries
+- Narration systems
+- Character voice systems
 
-Enchanta aims to redefine storytelling by merging:
+### World Plugins
 
-- Interactive fiction systems  
-- AI-generated cinematic production  
-- Adaptive music composition  
-- Narrative simulation engines  
-- Collaborative creative direction  
+Optional content systems for:
 
-The result is a platform where users do not just consume stories—they **direct, build, and evolve entire cinematic universes powered by AI**.
+- World templates
+- Environment packs
+- Weather systems
+- Procedural generation
+- Additional environmental effects
+
+### Magic Plugins
+
+Optional magic systems for:
+
+- Custom spell frameworks
+- New magical effects
+- Elemental systems
+- Magical objects
+- World-specific magic rules
+
+### Director Plugins
+
+Optional cinematic systems for:
+
+- Camera presets
+- Shot libraries
+- Cinematic templates
+- Lighting systems
+- Advanced editing controls
+- Automated directing styles
+
+### Export Plugins
+
+Optional export systems for:
+
+- Video formats
+- Audio formats
+- Interactive story formats
+- Digital books
+- Episode packages
+- Story archives
+
+### Developer Integration Plugins
+
+Optional integrations for:
+
+- External games
+- Creative applications
+- Storytelling tools
+- Educational systems
+- Developer platforms
+- External APIs
+
+## User Creative Workflow
+
+Enchanta supports a flexible creative workflow:
+
+- Create a character
+- Define personality and appearance
+- Create or select a world
+- Establish the story premise
+- Provide voice or text direction
+- Allow AI to develop the scene
+- Direct the scene using Director Mode
+- Adjust character expressions and behavior
+- Adjust magic intensity
+- Select or generate music
+- Review the generated scene
+- Save the scene
+- Continue the story
+- Create branches when desired
+- Organize stories into episodes and seasons
+- Record the finished adventure
+- Compile scenes into a complete cinematic story
+
+The creator remains in control throughout the process.
+
+## Story Continuity
+
+Enchanta maintains continuity across:
+
+- Characters
+- Relationships
+- Locations
+- Magical abilities
+- World rules
+- Story events
+- Episodes
+- Seasons
+- Music themes
+- Character emotions
+- Previous decisions
+
+The Memory Compression Module preserves important information as stories grow.
+
+## Cinematic Story Output
+
+Enchanta can combine generated elements into complete narrative experiences including:
+
+- Individual scenes
+- Cinematic sequences
+- Complete adventures
+- Episodes
+- Seasons
+- Full story compilations
+- Recorded performances
+- Interactive story experiences
+
+## Open Source and Extensibility
+
+Enchanta is designed around modular, replaceable systems to reduce vendor lock-in and encourage open source development.
+
+Developers can contribute:
+
+- Core modules
+- Optional plugins
+- AI integrations
+- Rendering systems
+- Creative tools
+- Documentation
+- Testing systems
+- Accessibility improvements
+- Performance improvements
+
+## Technical Principles
+
+Enchanta should prioritize:
+
+- Modular architecture
+- Open source technologies
+- Interchangeable AI providers
+- Local-first capabilities where practical
+- User control
+- Persistent story state
+- Extensible APIs
+- Privacy-conscious design
+- Accessible interfaces
+- Reproducible workflows
+- Clear module boundaries
+
 ---
 
 ## Specification Branding License (SBL)
@@ -368,6 +620,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
-## Project Vision  
-Enchanta aims to be an AI assisted cinematic story studio where adults can dream, build, and direct their own magical adventures. It brings together creativity, animation, AI, worldbuilding, and music generation to create stories worthy of the world’s greatest fantasy films.  
