@@ -1,12 +1,15 @@
 # Enchanta
-
 **Build Characters, Cast Spells, Tell Stories.**
+- HTML Mirror:  [https://roxanneardary.com/enchanta-specification/](https://roxanneardary.com/enchanta-specification/)
+---
 
 Enchanta is an open source AI-powered cinematic adventure creation platform that transforms imagination into interactive stories, animated scenes, music, and complete cinematic experiences. Adults can create characters, design worlds, develop magical abilities, guide stories through voice or text, and direct how each scene unfolds.
 
 Enchanta is designed as a modular creative platform. Core modules provide the foundation for character creation, worldbuilding, storytelling, cinematic direction, media generation, narrative continuity, and safe AI assistance. Optional plugin modules allow developers to extend the platform with additional AI models, rendering systems, creative tools, integrations, and community features.
 
 Enchanta is designed to remain PG-13. The platform does not generate nudity, sexual content, or graphic violence. AI assistance helps maintain age-appropriate behaviors, interactions, dialogue, and story development.
+
+---
 
 ## Core Modules
 
@@ -619,4 +622,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
