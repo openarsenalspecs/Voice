@@ -23,7 +23,11 @@ Together, these specifications envision a future where voice becomes a secure an
 
 - [**Axis Intelligence Module Specification**](https://github.com/openarsenalspecs/Voice/blob/cd4aac55296d1f26d34539127962f0161ccd3ff8/Axis%20Intelligence.md)    
   [https://roxanneardary.com/axis-intelligence/](https://roxanneardary.com/axis-intelligence/)  
-  The Quiet Center of a Smarter Home, an open-source modular ambient AI platform designed for local-first voice interaction, real-time intelligence, and fully customizable smart home integration.  
+  The Quiet Center of a Smarter Home, an open-source modular ambient AI platform designed for local-first voice interaction, real-time intelligence, and fully customizable smart home integration.
+
+- [**Beverage Cultures Module Specification**](https://github.com/openarsenalspecs/Voice/blob/ff2c10f583377f6bd9a9c033ef0beb0c39a513cf/Beverage%20Cultures.md)  
+[https://roxanneardary.com/beverage-cultures/](https://roxanneardary.com/beverage-cultures/)  
+Beverage Cultures is a global open source specification for beverage knowledge, education, cultural preservation, and invention, combining bartending, mixology, barista skills, coffee, tea, cocktails, mocktails, zero proof beverages, and beverage science in a modular framework. It also provides AI-assisted learning and beverage invention tools that support research, experimentation, recipe development, cultural context, and original beverage creation with human oversight and transparent provenance.
    
 - [**Cirra Chat Module Specification**](https://github.com/openarsenalspecs/Voice/blob/8b922b25ad237855207ba102f2f40e1173bc3d3f/Cirra%20Chat.md)    
   [https://roxanneardary.com/cirra-chat/](https://roxanneardary.com/cirra-chat/)  
